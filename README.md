@@ -1,4 +1,9 @@
 # fifa_simulator
-A Python Package for Simulation of fifa-like tournament fixtures  
-Following python statement is used to run the program 
-``` import fixtures ```
+ 
+ The package is installable using 'pip' command.
+ ```
+ pip install fifa-simulator
+ ```
+ Once installed through 'pip', run the below code to see the output
+ `import fixtures`
+ ---
