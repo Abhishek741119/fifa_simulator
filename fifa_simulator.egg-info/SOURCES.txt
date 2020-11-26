@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+fifa_simulator.egg-info/PKG-INFO
+fifa_simulator.egg-info/SOURCES.txt
+fifa_simulator.egg-info/dependency_links.txt
+fifa_simulator.egg-info/requires.txt
+fifa_simulator.egg-info/top_level.txt
+fixtures/__init__.py
+fixtures/fifa.py
+fixtures/fifawc.py
