@@ -3,7 +3,7 @@ with open('README.md') as r:
     desc=r.read()
 setup(
     name="fifa_simulator",
-    version="1.0.1",
+    version="1.0.2",
     description='A Python Package for Simulation of fifa-like tournament fifa_simulator',
     long_description=desc,
     long_description_content_type='text/markdown',
